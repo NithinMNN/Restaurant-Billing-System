@@ -1,10 +1,10 @@
 #Restaurant Billing System
 
-veg=['Rice','Dal','Burger','Roti','Dosa','Soup','Paneer']
+veg=['Fried Rice','Dal Makhani','Burger','Gulaab Jamun','Dosa','Soup','Paneer Do Pyaza']
 vp=[100,120,60,15,120,60,180]
 nveg=['chicken','egg','fish']
 np=[200,30,150]
-snack=['Manchurain','SpringRoll','Noodles']
+snack=['Manchurain','SpringRoll','Paani-Puri']
 sp=[130,70,110]
 
 n=int(input('Enter no of veg items ordered: '))
